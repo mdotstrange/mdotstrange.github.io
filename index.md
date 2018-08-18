@@ -9,4 +9,4 @@
 
 **I'm bold SON** and _Maybe so_ and `var site = Vector3.zero` text
 
-[Link](About) and ![Image](src)
+[Link](/About) and ![Image](src)
