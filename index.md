@@ -15,6 +15,7 @@
 
 # Communications
 
+- [Talks/Presentations](/Talks)
 - [Peepeth](https://peepeth.com/mdotstrange)
 - [A Strange Place Discord Server](https://discord.gg/J9jRJbZ)
 - Email ---> mdotstrange@gmail.com
