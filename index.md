@@ -17,4 +17,4 @@
 - Phone ---> Don't own or use one
 
 
-![Image](https://avatars1.githubusercontent.com/u/6647018?s=460&v=4)
+![Image](https://avatars1.githubusercontent.com/u/6647018?s=150&v=4)
