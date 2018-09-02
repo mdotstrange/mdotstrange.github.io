@@ -1,4 +1,4 @@
-# Links to some M dot Strange creations
+# M dot Strange links
 
 - [Film/Animation 1](https://www.youtube.com/user/mdotstrange)
 - [Film/Animation 2](https://vimeo.com/mdotstrange)
