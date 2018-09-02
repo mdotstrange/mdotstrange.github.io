@@ -1,7 +1,6 @@
 ![Image](/Art/minority.jpg)
 
 # Creations
-
 - [Film/Animation 1](https://www.youtube.com/user/mdotstrange)
 - [Film/Animation 2](https://vimeo.com/mdotstrange)
 - [Music 1](https://mdotstrange.bandcamp.com/)
@@ -11,11 +10,10 @@
 - [Blog/Writing 2](https://medium.com/@mdotstrange)
 - [Code](https://github.com/mdotstrange)
 - [Books](/Books)
-- [Imdb with partial filmography](https://www.imdb.com/name/nm2488902/)
 
 # Communications
-
 - [Talks/Presentations](/Talks)
+- [Interviews etc](/Interviews)
 - [Peepeth](https://peepeth.com/mdotstrange)
 - [A Strange Place Discord Server](https://discord.gg/J9jRJbZ)
 - Email ---> mdotstrange@gmail.com
@@ -24,6 +22,9 @@
 # Currency
 - Eth ---> mdotstrange.eth
 - Btc ---> 3GPhugX7TmsfDrC14UWaHH8f9Cz76h2BUt
+
+# C/Other
+- [Imdb with partial filmography](https://www.imdb.com/name/nm2488902/)
 
 # Cool Quotes Maaaaaan
 "Dreams are a gem in a dark cave surrounded by the fog of doubt- Passion is the
