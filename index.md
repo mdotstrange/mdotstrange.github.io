@@ -9,6 +9,7 @@
 - [Blog/Writing 2](https://medium.com/@mdotstrange)
 - [Code](https://github.com/mdotstrange)
 - [Books](/Books)
+- [Imdb with partial filmography] (https://www.imdb.com/name/nm2488902/)
 
 # Communications
 
