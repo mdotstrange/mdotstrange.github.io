@@ -13,7 +13,8 @@
 
 - [Peepeth](https://peepeth.com/mdotstrange)
 - [A Strange Place Discord Server](https://discord.gg/J9jRJbZ)
-- [Email](mdotstrange@gmail.com)
+- Email ---> mdotstrange@gmail.com
+- Phone ---> Don't own or use one
 
 
-[Link](/About) and ![Image](src)
+![Image](https://avatars1.githubusercontent.com/u/6647018?s=460&v=4)
