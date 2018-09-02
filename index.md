@@ -21,7 +21,7 @@
 - Eth ---> mdotstrange.eth
 - Btc ---> 3GPhugX7TmsfDrC14UWaHH8f9Cz76h2BUt
 
-# Cool Quotes Man
+# Cool Quotes Maaaaaan
 "Dreams are a gem in a dark cave surrounded by the fog of doubt- Passion is the
 torch that will burn through the fog- leading you to the dream"
 
