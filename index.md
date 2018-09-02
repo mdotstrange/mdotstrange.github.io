@@ -1,4 +1,4 @@
-![Image](https://avatars1.githubusercontent.com/u/6647018?s=100&v=4)
+![Image](/Art/minority.jpg)
 
 # Creations
 
