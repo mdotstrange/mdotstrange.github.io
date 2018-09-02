@@ -2,7 +2,7 @@
 
 - [Link]Film/Animation
 - [Link]Music
-- [Link](https://mdotstrange.itch.io/)Games
+- [Games](https://mdotstrange.itch.io/)
 - [Link]Blog/Writings
 - [Link]Code
 
