@@ -1,11 +1,13 @@
-# Links to relevant bits of strange
+# Links to some M dot Strange creations
 
-- [Link]Film/Animation
-- [Link]Music
+- [Film/Animation 1](https://www.youtube.com/user/mdotstrange)
+- [Film/Animation 2](https://vimeo.com/mdotstrange)
+- [Music 1](https://mdotstrange.bandcamp.com/)
+- [Music 2](https://soundcloud.com/mdotstrange)
 - [Games](https://mdotstrange.itch.io/)
-- [Link]Blog/Writings
-- [Link]Code
+- [Blog/Writing 1](http://mysteriousdollfilm.blogspot.com/)
+- [Blog/Writing 2](https://medium.com/@mdotstrange)
+- [Link]Code(https://github.com/mdotstrange)
 
-**I'm bold SON** and _Maybe so_ and `var site = Vector3.zero` text
 
 [Link](/About) and ![Image](src)
