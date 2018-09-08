@@ -32,5 +32,7 @@ torch that will burn through the fog- leading you to the dream"
 
 "A persons advice only goes as far as they have gotten"
 
+"As long as you walk the streets you are bound to stay down to earth"
+
 
 ![Image](https://avatars1.githubusercontent.com/u/6647018?s=100&v=4)
