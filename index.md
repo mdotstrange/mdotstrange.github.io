@@ -12,8 +12,7 @@
 - [Books](/Books)
 
 # Communications
-- [Talks/Presentations](/Talks)
-- [Interviews etc](/Interviews)
+- [Interviews/Press etc](/Interviews)
 - [Peepeth](https://peepeth.com/mdotstrange)
 - [A Strange Place Discord Server](https://discord.gg/J9jRJbZ)
 - Email ---> mdotstrange@gmail.com
