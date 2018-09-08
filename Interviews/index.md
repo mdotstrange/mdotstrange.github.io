@@ -1,12 +1,3 @@
-# Links to relevant bits of strange
+# Interview/Press links
 
-- Film
-- Animation
-- Music
-- Games
-- Writing
-- Other
-
-**I'm bold SON** and _Maybe so_ and `var site = Vector3.zero` text
-
-[Link](url) and ![Image](src)
+[Variety review of We are The Strange at Sundance](https://variety.com/2007/film/markets-festivals/we-are-the-strange-1200510966/)
