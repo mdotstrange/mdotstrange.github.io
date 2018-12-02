@@ -20,7 +20,7 @@
 
 # Currency
 - Eth ---> mdotstrange.eth
-- Btc ---> 3GPhugX7TmsfDrC14UWaHH8f9Cz76h2BUt
+- Btc ---> 3EfRiJDA3P6TjECqqQga1QzVw1xH9hfEZ3
 
 # C/Other
 - [Imdb with partial filmography](https://www.imdb.com/name/nm2488902/)
