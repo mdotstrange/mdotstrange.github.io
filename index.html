@@ -105,7 +105,11 @@
     </div>
     <div class="notes-list" id="notesList">
       
-      <a href="./test-tipping-maaaan/index.html" class="note-link">
+      
+      <a href="./qwath/index.html" class="note-link">
+        <div class="note-title">Qwath</div>
+        <div class="note-meta">12/30/2025</div>
+      </a><a href="./test-tipping-maaaan/index.html" class="note-link">
         <div class="note-title">Test tipping maaaan</div>
         <div class="note-meta">12/29/2025</div>
       </a><!-- NOTE_LINKS_PLACEHOLDER -->
@@ -117,7 +121,7 @@
   <div class="tip-modal-overlay" id="tipModal">
     <div class="tip-modal" style="position:relative;">
       <button class="tip-modal-close" id="tipModalClose">&times;</button>
-      <h2>💰 Tip this Boat!</h2>
+      <h2>ð° Tip this Boat!</h2>
       <div id="tipContent"></div>
     </div>
   </div>
@@ -339,7 +343,7 @@
         // Bitcoin section
         if (TIP_BTC_ADDRESS) {
           html += '<div class="tip-section">';
-          html += '<a href="bitcoin:' + TIP_BTC_ADDRESS + '" class="tip-link btc" id="btcTipBtn">₿ Tip with Bitcoin</a>';
+          html += '<a href="bitcoin:' + TIP_BTC_ADDRESS + '" class="tip-link btc" id="btcTipBtn">â¿ Tip with Bitcoin</a>';
           html += '<div class="tip-address">' + TIP_BTC_ADDRESS + '</div>';
           html += '</div>';
         }
@@ -347,7 +351,7 @@
         // Ethereum section
         if (TIP_ETH_ADDRESS) {
           html += '<div class="tip-section">';
-          html += '<a href="#" class="tip-link eth" id="ethTipBtn">Ξ Tip with ETH</a>';
+          html += '<a href="#" class="tip-link eth" id="ethTipBtn">Î Tip with ETH</a>';
           html += '<div class="tip-address">' + TIP_ETH_ADDRESS + '</div>';
           html += '</div>';
         }
